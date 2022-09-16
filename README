@@ -1,0 +1,2 @@
+This script goes through a folder full of images and operates with each of them. 
+On each image, it uses PIL methods to resize, rotate and convert the image to RGB and then writes them in the opt/icons folder.
